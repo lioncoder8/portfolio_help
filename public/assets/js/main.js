@@ -265,7 +265,7 @@
   ['filter-web','Website','web05.jfif','https://www.web.com/'],
   ['filter-web','Website','web06.jfif','https://www.ap-websolution.de/'],
   ['filter-web','Website','web07.jfif','https://www.web.com/'],
-  ['filter-web','Website','web08.jfif','https://mobirise.com/'],
+  // ['filter-web','Website','web08.jfif','https://mobirise.com/'],
   ['filter-web','Website','web09.jfif','https://www.freepik.com/'],
   ['filter-web','Website','web10.jfif','https://surfacecondos.com/'],
   ['filter-web','Website','web11.jfif','https://www.pinterest.com/ideas/'],
